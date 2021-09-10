@@ -1,0 +1,11 @@
+body{
+background-image: linear-gradient(to left, rgb(66, 245, 188), white);
+padding: 20px;
+}
+
+.links{
+width: 20vw;
+display:flex;
+justify-content: space-between;
+justify-items: space-between;
+}

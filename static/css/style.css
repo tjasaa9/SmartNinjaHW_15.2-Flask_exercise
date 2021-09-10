@@ -1,0 +1,10 @@
+body {
+padding: 20px;
+background-color: lightblue;
+}
+
+.links {
+width: 20vw;
+display: flex;
+justify-content: space-between;
+}

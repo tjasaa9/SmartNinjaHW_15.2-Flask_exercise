@@ -1,0 +1,58 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+.container {
+    border: 2px solid grey;
+    padding: 20px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form{
+    width: 250px;
+    display: flex-box;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.create-acc{
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+}
+
+.one-acc{
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    flex-direction: row;
+    padding: 20px;
+    text-align:center;
+}
+
+.icons{
+    width: 20px;
+    padding: 20px;
+}
+
+footer{
+padding: 20px;
+width: 10vw;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
