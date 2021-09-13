@@ -33,4 +33,4 @@ def hairsalon():
 
 
 #if __name__ == '__main__':
-app.run(cuse_reloader=True)
+app.run(port="5002", use_reloader=True)
