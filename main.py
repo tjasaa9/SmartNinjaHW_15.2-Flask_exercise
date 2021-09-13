@@ -32,5 +32,6 @@ def hairsalon():
     return render_template("hairsalon.html")
 
 
-if __name__ == '__main__':
-    app.run(use_reloader=True)
+#if __name__ == '__main__':
+   # app.run(use_reloader=True)
+app.run(port="5001", use_reloader=True)
